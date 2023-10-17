@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148851070202",
+    "project_id": "shilobenotes",
+    "storage_bucket": "shilobenotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148851070202:android:e6f9d8c02031d59cf9a543",
+        "android_client_info": {
+          "package_name": "com.mynoteapp.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzmsFGEOJkKouk1D1zuJXJtRiy00it7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
